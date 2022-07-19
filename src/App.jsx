@@ -1,4 +1,5 @@
 import React from "react";
+import "./index.css";
 
 import TodoListScreen from "features/todo/screens/TodoListScreen/TodoListScreen";
 
